@@ -80,7 +80,7 @@ Transfer successful! ₹1000 transferred from 12345 to 67890
 ## 🔧 Installation and Execution
 
 1️⃣ Clone this repository: 
-git clone https://github.com/your-username/bank-management-system.git
+git clone https://github.com/Diksha1296/Bank-Management
 2️⃣ Navigate to the project directory:
 cd bank-management-system
 3️⃣ Run the script:
